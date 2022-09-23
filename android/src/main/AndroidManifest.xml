@@ -1,0 +1,9 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.burnweb.rnsendintent">
+
+    <application>
+        <service
+                android:name=".RNSendIntentModule"
+                android:exported="true" />
+    </application>
+</manifest>
